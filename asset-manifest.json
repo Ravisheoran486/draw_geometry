@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/draw_geometry/static/css/main.8218b314.css",
+    "main.js": "/draw_geometry/static/js/main.e507bc2b.js",
+    "static/js/453.59217c06.chunk.js": "/draw_geometry/static/js/453.59217c06.chunk.js",
+    "index.html": "/draw_geometry/index.html",
+    "main.8218b314.css.map": "/draw_geometry/static/css/main.8218b314.css.map",
+    "main.e507bc2b.js.map": "/draw_geometry/static/js/main.e507bc2b.js.map",
+    "453.59217c06.chunk.js.map": "/draw_geometry/static/js/453.59217c06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8218b314.css",
+    "static/js/main.e507bc2b.js"
+  ]
+}
